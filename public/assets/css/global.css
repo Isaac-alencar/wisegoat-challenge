@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 60%;
+  --color-purple: #72005f;
+  --color-purple-light: #72005f1f;
+  --color-beige: #baa193;
+  --color-white: #ffffff;
+}
