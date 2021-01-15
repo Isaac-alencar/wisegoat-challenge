@@ -34,7 +34,7 @@ Confira se você possui as seguintes ferramentas no seu computador
 
 Clone o repositório
 ```bash
-  git clone ... path/to/your/folder_project
+  git clone https://github.com/Isaac-alencar/wisegoat-challenge.git path/to/your/folder_project
 ```
 ...Depois
 
